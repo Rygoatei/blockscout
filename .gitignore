@@ -68,3 +68,4 @@ dump.rdb
 *.env.local
 *.env.staging
 .devcontainer/.blockscout_config
+docker-compose/services/backup/
